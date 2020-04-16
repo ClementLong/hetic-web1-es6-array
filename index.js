@@ -25,12 +25,13 @@ console.log('======================================')
 
 
 //////// Exercice 5
-//////// Assigner à dad un object vide
+//////// Assigner à 'tomb' un object vide
 
 
 
 //////// Exercice 6
-//////// Assigner à dad un nom et un téléphone pour obtenir le même resultat que l'exercice 3
+//////// Assigner à 'tomb' une character et une punchline pour obtenir le même resultat que l'exercice 3
+//////// avec comme valeur 'Nexusis' et 'Ce tombeau sera votre tombeau'
 
 
 
